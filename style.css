@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+.heading{
+    margin: 0px;
+    width: 100%;
+    background: white;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 25px;
+    font-family: roboto;
+}
+.note{
+    font-size: 19px;
+    color: red;
+}
+.cc_footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: grey;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    line-height: 3;
+    font-size: 15px;
+    box-shadow: 1px 1px 10px black;
+}
+#font_size{
+    padding: 5px;
+    line-height: 3;
+    border-radius: 20px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px grey;
+}
