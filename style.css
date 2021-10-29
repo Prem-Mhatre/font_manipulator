@@ -30,3 +30,8 @@
     border: 2px solid black;
     box-shadow: 5px 5px 5px grey;
 }
+canvas{
+    box-shadow: 1px 1px 38px grey;
+    border-radius: 50px;
+    border: 5px solid white;
+}
