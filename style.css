@@ -24,11 +24,12 @@
     box-shadow: 1px 1px 10px black;
 }
 #font_size{
-    padding: 5px;
+    padding: 10px;
     line-height: 3;
     border-radius: 20px;
-    border: 2px solid black;
+    border: 3px solid black;
     box-shadow: 5px 5px 5px grey;
+    font-weight: bold;
 }
 canvas{
     box-shadow: 1px 1px 38px grey;
